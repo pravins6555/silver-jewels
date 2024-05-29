@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import Teams from "../components/Teams";
 
 const PageWrapper = styled.div`
   display: flex;
@@ -29,9 +30,9 @@ const TextTwo = styled.p`
 `;
 
 const TeamContainer = styled.div`
-width: 85%;
+
   min-width: 600px;
-  display: grid;
+  display: inline-flex;
   grid-template-columns: 1fr 1.5fr;
   background-color: #fff;
   padding: 5px;
@@ -62,12 +63,20 @@ function About(){
       </PageHeadingWrapper>
 
       <TeamContainer>
-
+      <Teams 
+      title="Jane Doe" 
+      discription="Some text that describes me lorem ipsum ipsum lorem." 
+      image="https://www.w3schools.com/w3images/team1.jpg"/>
+      <Teams 
+      title="Mike Ross" 
+      discription="Some text that describes me lorem ipsum ipsum lorem." 
+      image="https://www.w3schools.com/w3images/team2.jpg"/>
+      <Teams 
+      title="John Doe" 
+      discription="Some text that describes me lorem ipsum ipsum lorem." 
+      image="https://www.w3schools.com/w3images/team3.jpg"/>
       </TeamContainer>
     </PageWrapper>
-
-        
-
 
     )
 }
