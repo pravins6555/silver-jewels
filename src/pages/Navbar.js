@@ -30,6 +30,9 @@ return(
                 <Link to="/">Home</Link>
             </MenuItem>
             <MenuItem>
+                <Link to="/products">Products</Link>
+            </MenuItem>
+            <MenuItem>
                 <Link to="/about">About</Link>
             </MenuItem>
             <MenuItem>

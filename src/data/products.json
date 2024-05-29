@@ -1,0 +1,12 @@
+[
+    {
+        "name":"Apple Iphone 15",
+        "price":79000,
+        "description":"Apple Iphone 15"
+    },
+    {
+        "name":"Apple Iphone 15 Plus",
+        "price":99000,
+        "description":"Apple Iphone 15 Plus"
+    }
+]
