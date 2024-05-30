@@ -1,12 +1,41 @@
 [
     {
-        "name":"Apple Iphone 15",
+        "id":1,
+        "name":"SILVER PENDANT RHODIUM PLATED",
         "price":79000,
-        "description":"Apple Iphone 15"
+        "description":"Made in Pure 92.5 % Real Sterling Silver. 925 hallmark stamp will be on every product. Finest Quality Swiss Zirconia - As brilliant As Diamond. Sparkle of our specially cut zirconia is very much equivalent to Real Diamond and even professionals can not differentiate with naked eyes whether it is Zirconia or Diamond.",
+        "images":"assets/products/product1.jpg"
     },
     {
-        "name":"Apple Iphone 15 Plus",
+        "id":2,
+        "name":"SILVER REAL PEARL PENDANT",
         "price":99000,
-        "description":"Apple Iphone 15 Plus"
+        "description":"Clara Brings to you the finest and affordable range of Pearl and CZ jewellery designs. Made in Pure 92.5 % Pure sterling Silver. BIS hallmarking stamp will be on every product.",
+        "images": "assets/products/product2.jpg"
+
+    },
+    {
+        "id":3,
+        "name":"SILVER REAL PEARL PENDANT",
+        "price":39000,
+        "description":"Clara Brings to you the finest and affordable range of Pearl and CZ jewellery designs. Made in Pure 92.5 % Pure sterling Silver. BIS hallmarking stamp will be on every product",
+        "images": "assets/products/product3.jpg"
+
+    },
+    {
+        "id":4,
+        "name":"SILVER CLASSIC PEARL EARRINGS",
+        "price":49000,
+        "description":"Clara Brings to you the finest and affordable range of Pearl and CZ jewellery designs. Made in Pure 92.5 % Pure sterling Silver. BIS hallmarking stamp will be on every product.",
+        "images": "assets/products/product4.jpg"
+
+    },
+    {
+        "id":5,
+        "name":"SILVER SKY RED TEAR DROP PENDANT",
+        "price":139000,
+        "description":"Clara Brings to you the finest and affordable range of Pearl and CZ jewellery designs. Made in Pure 92.5 % Pure sterling Silver. BIS hallmarking stamp will be on every product",
+        "images": "assets/products/product5.jpg"
+
     }
 ]
